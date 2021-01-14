@@ -1,0 +1,17 @@
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\bin\Debug\SandwichMaker.exe.config
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\bin\Debug\SandwichMaker.exe
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\bin\Debug\SandwichMaker.pdb
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\IngredientsWindow.g.cs
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichWindow.g.cs
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\App.g.cs
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichMaker_MarkupCompile.cache
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichMaker_MarkupCompile.lref
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\IngredientsWindow.baml
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichWindow.baml
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichMaker.g.resources
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichMaker.Properties.Resources.resources
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichMaker.csproj.GenerateResource.cache
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichMaker.csproj.CoreCompileInputs.cache
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichMaker.exe
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichMaker.pdb
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\SandwichMaker\obj\Debug\SandwichMaker.csprojAssemblyReference.cache

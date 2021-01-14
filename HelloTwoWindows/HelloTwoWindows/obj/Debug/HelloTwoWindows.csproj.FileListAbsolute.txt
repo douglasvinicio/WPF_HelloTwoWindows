@@ -1,0 +1,17 @@
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\bin\Debug\HelloTwoWindows.exe.config
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\bin\Debug\HelloTwoWindows.exe
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\bin\Debug\HelloTwoWindows.pdb
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloTwoWindows.csprojAssemblyReference.cache
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloWindow.g.cs
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\MainWindow.g.cs
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\App.g.cs
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloTwoWindows_MarkupCompile.cache
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloTwoWindows_MarkupCompile.lref
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloWindow.baml
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\MainWindow.baml
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloTwoWindows.g.resources
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloTwoWindows.Properties.Resources.resources
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloTwoWindows.csproj.GenerateResource.cache
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloTwoWindows.csproj.CoreCompileInputs.cache
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloTwoWindows.exe
+C:\John Abbott IPD 22\C# 2\WPF_HelloTwoWindows\HelloTwoWindows\HelloTwoWindows\obj\Debug\HelloTwoWindows.pdb

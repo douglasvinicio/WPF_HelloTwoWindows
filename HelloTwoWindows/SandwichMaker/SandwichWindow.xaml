@@ -1,0 +1,19 @@
+﻿<Window x:Class="SandwichMaker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SandwichMaker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="500" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Name="btnMakeSandwich" Click="btnMakeSandwich_Click"  Content="Make a Sandwich" HorizontalAlignment="Left" Margin="21,21,0,0" VerticalAlignment="Top" Width="114"/>
+        <Label Content="Bread" HorizontalAlignment="Left" Margin="51,55,0,0" VerticalAlignment="Top"/>
+        <Label Content="Veggies" HorizontalAlignment="Left" Margin="51,110,0,0" VerticalAlignment="Top"/>
+        <Label Content="Meat" HorizontalAlignment="Left" Margin="51,166,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblBread" Content="..." HorizontalAlignment="Left" Margin="175,55,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblVeggies" Content="..." HorizontalAlignment="Left" Margin="175,110,0,0" VerticalAlignment="Top"/>
+        <Label Name="lblMeat" Content="..." HorizontalAlignment="Left" Margin="175,166,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

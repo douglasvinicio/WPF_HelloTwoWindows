@@ -1,0 +1,27 @@
+﻿<Window x:Class="SandwichMaker.IngredientsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SandwichMaker"
+        mc:Ignorable="d"
+        Title="IngredientsWindow" Height="450" Width="500" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <Label Content="Bread" HorizontalAlignment="Left" Margin="65,70,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="cmbBread" HorizontalAlignment="Left" Margin="153,74,0,0" VerticalAlignment="Top" Width="203">
+            <ComboBoxItem IsSelected="True" Content="White"/>
+            <ComboBoxItem Content="Brown"/>
+            <ComboBoxItem Content="Regular"/>
+        </ComboBox>
+        <Label Content="Vegetables" HorizontalAlignment="Left" Margin="65,142,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="chboxLettuce" Content="Lettuce" HorizontalAlignment="Left" Margin="76,186,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="chboxTomato" Content="Tomatos" HorizontalAlignment="Left" Margin="209,186,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="chboxCucumber" Content="Cucumbers" HorizontalAlignment="Left" Margin="369,186,0,0" VerticalAlignment="Top"/>
+        <Label Content="Meats" HorizontalAlignment="Left" Margin="65,261,0,0" VerticalAlignment="Top"/>
+        <RadioButton GroupName="meat" Name="rbtnChicken" Content="Chicken" HorizontalAlignment="Left" Margin="65,310,0,0" VerticalAlignment="Top"/>
+        <RadioButton GroupName="meat" Name="rbtnTurkey" Content="Turkey" HorizontalAlignment="Left" Margin="209,310,0,0" VerticalAlignment="Top"/>
+        <RadioButton GroupName="meat" Name="rbtnCow" Content="Cow" HorizontalAlignment="Left" Margin="355,310,0,0" VerticalAlignment="Top"/>
+        <Button Click="btnCancel_Click" Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="133,354,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="btnSave_Click" Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="291,354,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>
